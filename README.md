@@ -16,6 +16,6 @@ Esto va pegado, sin una línea en blanco.
 > esto es una cita
 Y otro
 
-[gatito]https://i.ytimg.com/vi/IIjjrsepktA/maxresdefault.jpg
+![Gatito]https://i.ytimg.com/vi/IIjjrsepktA/maxresdefault.jpg
 
 Y uno más
